@@ -1,0 +1,5 @@
+C:\Users\админ\Desktop\АЛЬФИЯ\Программирование\C#\example\Example2Hello_users\obj\Debug\net7.0\Example2Hello_users.csproj.AssemblyReference.cache
+C:\Users\админ\Desktop\АЛЬФИЯ\Программирование\C#\example\Example2Hello_users\obj\Debug\net7.0\Example2Hello_users.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\админ\Desktop\АЛЬФИЯ\Программирование\C#\example\Example2Hello_users\obj\Debug\net7.0\Example2Hello_users.AssemblyInfoInputs.cache
+C:\Users\админ\Desktop\АЛЬФИЯ\Программирование\C#\example\Example2Hello_users\obj\Debug\net7.0\Example2Hello_users.AssemblyInfo.cs
+C:\Users\админ\Desktop\АЛЬФИЯ\Программирование\C#\example\Example2Hello_users\obj\Debug\net7.0\Example2Hello_users.csproj.CoreCompileInputs.cache

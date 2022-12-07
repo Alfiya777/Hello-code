@@ -3,3 +3,13 @@ C:\Users\админ\Desktop\АЛЬФИЯ\Программирование\C#\exa
 C:\Users\админ\Desktop\АЛЬФИЯ\Программирование\C#\example\Example2Hello_users\obj\Debug\net7.0\Example2Hello_users.AssemblyInfoInputs.cache
 C:\Users\админ\Desktop\АЛЬФИЯ\Программирование\C#\example\Example2Hello_users\obj\Debug\net7.0\Example2Hello_users.AssemblyInfo.cs
 C:\Users\админ\Desktop\АЛЬФИЯ\Программирование\C#\example\Example2Hello_users\obj\Debug\net7.0\Example2Hello_users.csproj.CoreCompileInputs.cache
+C:\Users\админ\Desktop\АЛЬФИЯ\Программирование\C#\example\Example2Hello_users\bin\Debug\net7.0\Example2Hello_users.exe
+C:\Users\админ\Desktop\АЛЬФИЯ\Программирование\C#\example\Example2Hello_users\bin\Debug\net7.0\Example2Hello_users.deps.json
+C:\Users\админ\Desktop\АЛЬФИЯ\Программирование\C#\example\Example2Hello_users\bin\Debug\net7.0\Example2Hello_users.runtimeconfig.json
+C:\Users\админ\Desktop\АЛЬФИЯ\Программирование\C#\example\Example2Hello_users\bin\Debug\net7.0\Example2Hello_users.dll
+C:\Users\админ\Desktop\АЛЬФИЯ\Программирование\C#\example\Example2Hello_users\bin\Debug\net7.0\Example2Hello_users.pdb
+C:\Users\админ\Desktop\АЛЬФИЯ\Программирование\C#\example\Example2Hello_users\obj\Debug\net7.0\Example2Hello_users.dll
+C:\Users\админ\Desktop\АЛЬФИЯ\Программирование\C#\example\Example2Hello_users\obj\Debug\net7.0\refint\Example2Hello_users.dll
+C:\Users\админ\Desktop\АЛЬФИЯ\Программирование\C#\example\Example2Hello_users\obj\Debug\net7.0\Example2Hello_users.pdb
+C:\Users\админ\Desktop\АЛЬФИЯ\Программирование\C#\example\Example2Hello_users\obj\Debug\net7.0\Example2Hello_users.genruntimeconfig.cache
+C:\Users\админ\Desktop\АЛЬФИЯ\Программирование\C#\example\Example2Hello_users\obj\Debug\net7.0\ref\Example2Hello_users.dll
